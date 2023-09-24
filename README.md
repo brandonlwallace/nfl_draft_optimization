@@ -1,5 +1,5 @@
 # NFL Draft Tool
-### Brandon Wallace
+### created by Brandon Wallace
 
 This project developed a web scraper to collect hundreds of 2023 NFL mock drafts from sports journalists. The data are organized and appeneded in such a way that each row represents a mock draft.
 
